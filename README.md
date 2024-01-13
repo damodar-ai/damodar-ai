@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ---
-title: Sumanth-Talluri
+title: Damodar Tiwari
 date: '2020-01-10'
 spoiler: Tabular Readme Template
 categories: ["tabular", "all-profile"]
@@ -10,7 +10,7 @@ githubUsername: 'Sumanth-Talluri'
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Damodar 👋</b></h1>
 </p>
 
 <p>
